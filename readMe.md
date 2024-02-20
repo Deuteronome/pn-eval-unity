@@ -13,7 +13,7 @@ Récupérez le package joint et importez-le dans un nouveau projet Unity - charg
 
 Il s'agit d'un jeu buggé - normalent, il s'agit d'un jeu à scrolling horizontal - avion vu de côté se déplace de gauche à droite et doit passer dans des ouverture. Le joueur contôle l'inclinaison de l'avion pour éviter les obstacles :
 
-Il y a plusieurs bug :
+Il y a plusieurs bugs :
 * La caméra est mal placée (elle doit être sur le côté de l'avion)
 * La caméra ne se déplace pas (elle doit suivre l'avion)
 * L'avion recule au lieu d'avancer
